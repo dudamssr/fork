@@ -69,7 +69,7 @@ Com foco em:
 
 1. Clone o repositório:
 ```bash
-git clone 
+git clone https://github.com/dudamssr/fork.git
 ```
 
 2. Acesse a pasta:
